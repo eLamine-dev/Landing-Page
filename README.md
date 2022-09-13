@@ -1,2 +1,2 @@
-# Landing-Page-
-The Odin Project landing page project  (HTML and CSS practice) 
+# Landing-Page 
+The Odin Project landing page project (HTML and CSS practice) 
