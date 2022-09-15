@@ -87,7 +87,8 @@ body {
 }
 
 .card:hover {
-    transform: translate(0, -10px);
+    transform: translate(0, -16px);
+    transition-duration: 300ms;
 }
 
 .card img {
